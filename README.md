@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-## [Oncological Molecular Biologist & Computational Scientist](https://github.com/Wabram/cv/blob/master/CV_EN.pdf)
+## [Oncological Molecular Biologist & Computational Scientist (cv)](https://github.com/Wabram/cv/blob/master/CV_EN.pdf)
 using proteasomes inhibitor, nutritranscriptomics
 
 - Project manager and executive (wet lab, in silico analyses); 
