@@ -29,5 +29,4 @@ using proteasomes inhibitor, nutritranscriptomics
 
 ---
 
-#### Owner of small Polish Carpentry (solid wood with natural finish) 
-<p style="color: blue; text-align: center;">[WARZEM ![instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/wa.rzem/)</p>
+#### Owner of small Polish Carpentry (solid wood with natural finish) [WARZEM ![instagram](https://logodix.com/logo/14587.png)](https://www.instagram.com/wa.rzem/)
