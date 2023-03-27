@@ -25,7 +25,7 @@ using proteasomes inhibitor, nutritranscriptomics
 
 ---
 
-<p style="color: blue; text-align: center;">I am currently `looking for a job`. If you are hiring <b>a Computational Oncologist</b> or <b>a Molecular Biologist</b>, let me know!</p>
+I am currently `looking for a job`. If you are hiring a Computational Oncologist or a Molecular Biologist, let me know!
 
 ---
 
