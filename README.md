@@ -23,5 +23,11 @@ using proteasomes inhibitor, nutritranscriptomics
 - Performed **`wet laboratory`** (experiments with Agilent's gene expression and miRNA microarrays as Watson-Crick base paring of indirect **transcriptome** form cDNA (mRNA, lncRNA, lincRNA, sno/snRNA, ncRNA, miscRNA, miRNA)(none of Hoogsteen base paring procedures),quality controls (pos/neg/spike-in), MTT drug testing (proteasome inhibitor, terpen),  total RNA/DNA isolation, purification, quality, quantity (Bioanalyzer, NanoDrop), gene validation (qPCR, primer design, analysis)) 
 - and **`in silico`** using open-source programming/biostatistical **R/RStudio** with packages from cran, bioconductor, github repos (pre-processing, numerical validation awarness, glm, Bayesian, multivariate, pathway enrichment analysis). On time delivering wet lab experiments, performing and precaution of misleading computational analysis.
 
+---
 
-#### Owner of small Polish Carpentry (solid wood with natural finish) [WARZEM ![instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/wa.rzem/)
+<p style="color: blue; text-align: center;">I am currently looking for a job. If you are hiring <b>a (Research) Computational Oncologiest</b> or <b>a Molecular Biologist</b>, let me know!</p>
+
+---
+
+#### Owner of small Polish Carpentry (solid wood with natural finish) 
+<p style="color: blue; text-align: center;">[WARZEM ![instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://www.instagram.com/wa.rzem/)</p>
