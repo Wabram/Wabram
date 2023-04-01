@@ -25,9 +25,9 @@ using proteasomes inhibitor, nutritranscriptomics
 
 ---
 
-I am currently `looking for a job`. If you are hiring **a Computational Oncologist** or **a Molecular Biologist**, let me know!
+## I am currently `looking for a job`. If you are hiring **a Computational Oncologist** or **a Molecular Biologist**, let me know!
 
 ---
 
-## Owner of small Polish `tailor-made` [Carpentry](https://github.com/Wabram/Wabram.github.io/blob/main/README.md) 🔭 (solid wood with natural oils finish) [![instagram](https://img.shields.io/badge/WARZEM-0d1117?style=for-the-badge&logo=instagram&logoColor=instagram)](https://www.instagram.com/wa.rzem/) 
+#### Owner of small Polish `tailor-made` [Carpentry](https://github.com/Wabram/Wabram.github.io/blob/main/README.md) 🔭 (solid wood with natural oils finish) [![instagram](https://img.shields.io/badge/WARZEM-0d1117?style=for-the-badge&logo=instagram&logoColor=instagram)](https://www.instagram.com/wa.rzem/) 
 
