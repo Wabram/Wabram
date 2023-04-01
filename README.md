@@ -21,7 +21,7 @@ using proteasomes inhibitor, nutritranscriptomics
 - Budget management;
 - Project manager and executive (wet lab, in silico analyses); 
 - Performed **`wet laboratory`** (experiments with Agilent's gene expression and miRNA microarrays as Watson-Crick base paring of indirect **transcriptome** form cDNA (mRNA, lncRNA, lincRNA, sno/snRNA, ncRNA, miscRNA, miRNA)(none of Hoogsteen base paring procedures), quality controls (pos/neg/spike-in), MTT drug testing (proteasome inhibitor, terpen),  total RNA/DNA isolation, purification, quality, quantity (Bioanalyzer, NanoDrop), gene validation (qPCR, primer design, analysis)) 
-- and **`in silico`** analyses using open-source programming/biostatistical **R/RStudio** with packages from cran, bioconductor, github repos (pre-processing, numerical validation awareness, glm, Bayesian, multivariate, pathway enrichment analysis). On time delivering wet lab experiments, performing and precaution of misleading computational analysis. Example of ![microarray](https://github.com/Wabram/Wabram/blob/main/pngegg.png) [microarray analysis](https://wabram.github.io/cv/)
+- and **`in silico`** analyses using open-source programming/biostatistical **R/RStudio** with packages from cran, bioconductor, github repos (pre-processing, numerical validation awareness, glm, Bayesian, multivariate, pathway enrichment analysis). On time delivering wet lab experiments, performing and precaution of misleading computational analysis. Example of [![microarray](https://github.com/Wabram/Wabram/blob/main/pngegg.png)](https://wabram.github.io/cv/) [microarray analysis](https://wabram.github.io/cv/)
 
 ---
 
