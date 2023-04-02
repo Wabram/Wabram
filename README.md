@@ -29,5 +29,5 @@ I am currently `looking for a job`. If you are hiring **a Computational Oncologi
 
 ---
 
-#### Owner of small Polish `tailor-made` [Carpentry](Wabram.github.io) 🔭 (solid wood with natural oils finish) [[<i class="fa-brands fa-instagram fa-bounce" style="color: #000000;"></i>](https://img.shields.io/badge/WARZEM-0d1117?style=for-the-badge&logo=instagram&logoColor=instagram)](https://www.instagram.com/wa.rzem/) 
+#### Owner of small Polish `tailor-made` [Carpentry](https://wabram.github.io) 🔭 (solid wood with natural oils finish) [![Instagram](https://img.shields.io/badge/WARZEM-0d1117?style=for-the-badge&logo=instagram&logoColor=instagram)](https://www.instagram.com/wa.rzem/) 
 
