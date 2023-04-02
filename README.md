@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 # About Me
 
-## [Molecular Oncologist & Computational Scientist (cv)](https://wabram.github.com/Wabram)
+## [Molecular Oncologist & Computational Scientist (cv)](https://wabram.github.io/Wabram)
 using proteasomes inhibitor, nutritranscriptomics
 
 - Budget management;
